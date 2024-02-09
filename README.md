@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on beginner leveel coding projects that will allow me to practice my learning
 - 📫 How to reach me: email @malloufjworks@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am currently a student at the University of Texas at Arlington
+- ⚡ Fun fact: I am currently a student at the University of North Texas
 
 <!---
 jordanmallouf/jordanmallouf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
